@@ -4,14 +4,14 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Header } from "@/components/layout/Header";
 
 // Pages
-import HomePage from "@/pages/Home/HomePage";
-import AboutPage from "@/pages/About/AboutPage";
-import CompaniesPage from "@/pages/Companies/CompaniesPage";
-import FocusAreasPage from "@/pages/FocusAreas/FocusAreasPage";
-import InsightsPage from "@/pages/Insights/InsightsPage";
-import WorkWithUsPage from "@/pages/WorkWithUs/WorkWithUsPage";
-import ContactPage from "@/pages/Contact/ContactPage";
-import FounderDesPage from "@/pages/FounderDesk/FounderDeskPage";
+import HomePage from "@/Pages/Home/HomePage";
+import AboutPage from "@/Pages/About/AboutPage";
+import CompaniesPage from "@/Pages/Companies/CompaniesPage";
+import FocusAreasPage from "@/Pages/FocusAreas/FocusAreasPage";
+import InsightsPage from "@/Pages/Insights/InsightsPage";
+import WorkWithUsPage from "@/Pages/WorkWithUs/WorkWithUsPage";
+import ContactPage from "@/Pages/Contact/ContactPage";
+import FounderDesPage from "@/Pages/FounderDesk/FounderDeskPage";
 import { Footer } from "./components/layout/Footer";
 import ScrollToTop from "./components/common/ScrollToTop";
 import ClientsPage from "./Pages/Clients/ClientsPage";
